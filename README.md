@@ -32,9 +32,9 @@ The information can be exported to spreadsheets, google sheets, etc. We are acti
 
 Once you have already granted access to your Financial Institution account on [MeuPluggy](https://meu.pluggy.ai), you will be able to access the data through API using our existing documentation and SDKs.
 
-First you will be required to create an account on our [Developer Portal](https://dashboard.pluggy.ai), and you will began a 15 days trial (Don’t worry you will be able to pull information after expires anyway). 
+First you will be required to create an account on our [Dashboard (our Developer Portal)](https://dashboard.pluggy.ai), and you will begin a 15 days trial (Don’t worry you will be able to pull information after expires anyway). 
 
-Customize your application to list the *MeuPluggy* connector as one of your desired connections as shown in the following pictures:
+Customize your application to list the *MeuPluggy* connector as one of your desired connectors as shown in the following pictures:
 
 ![Dashboard Customization](./assets//dashboard_customize.png)
 
@@ -53,4 +53,4 @@ Once the authorization has been granted the connection will be available for you
 
 <img src="./assets//meupluggy_authorized.png" width=70%>
 
-Using the `client_id` and `client_secret` recover before you will be able to pull your information using our [SDKs, Integrations and more](https://docs.pluggy.ai), and feel free to reach out at our [Discord Server](https://discord.gg/M55jsC8S)
+Using the `client_id` and `client_secret` recovered before you will be able to pull your information using our [SDKs, Integrations and more](https://docs.pluggy.ai), and feel free to reach out at our [Discord Server](https://discord.gg/M55jsC8S)
