@@ -4,7 +4,7 @@ Hello fellow developer,
 
 *MeuPluggy* is born with that premise, becoming a **free** consumer application that provides consent & data management so users can use their information as they need, and have full control of which third-party applications they share their access and to revoke that access if its not wanted.
 
-Please join our discord server to discuss about the project, request features, report bugs and more: [https://discord.gg/M55jsC8S](https://discord.gg/M55jsC8S).
+Please join our discord server to discuss about the project, request features, report bugs and more: [https://discord.gg/EanrwJADby](https://discord.gg/EanrwJADby).
 
 ### Intro
 
@@ -53,4 +53,4 @@ Once the authorization has been granted the connection will be available for you
 
 <img src="./assets//meupluggy_authorized.png" width=70%>
 
-Using the `client_id` and `client_secret` recovered before you will be able to pull your information using our [SDKs, Integrations and more](https://docs.pluggy.ai), and feel free to reach out at our [Discord Server](https://discord.gg/M55jsC8S)
+Using the `client_id` and `client_secret` recovered before you will be able to pull your information using our [SDKs, Integrations and more](https://docs.pluggy.ai), and feel free to reach out at our [Discord Server](https://discord.gg/EanrwJADby)
