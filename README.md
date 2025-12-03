@@ -48,6 +48,7 @@ Open the Demo application, to easily link your existing *MeuPluggy* account to y
 
 <img src="./assets//connect_meupluggy.png" width=30%> <img src="./assets//authorize_meupluggy.png" width=50%>
 
+**IMPORTANT:** If you have multiple banks configured in MeuPluggy, you'll need to do this once per connected bank in MeuPluggy (bank, not bank account).
 
 Once the authorization has been granted the connection will be available for you to pull information. This authorization acts like a Proxy to the original connection that its own and maintained by MeuPluggy, and will refresh the information on a daily basis.
 
